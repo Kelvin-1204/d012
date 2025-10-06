@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: blue;
+    background-color: black;
     color: white;
     text-align: center;
 }
@@ -41,7 +41,7 @@ section {
 }
 
 #q2 {
-   background-image: url(/projeto-d012/imagens/background001.jpg);
+   background-image: url(/imagens/abelha.jpg);
    background-position: center right;
    background-repeat: no-repeat;
    background-size: cover;
@@ -53,7 +53,7 @@ section {
 }
 
 #q4 {
-    background-image: url(/projeto-d012/imagens/background002.jpg);
+    background-image: url(/imagens/livro.jpg);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
